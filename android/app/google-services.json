@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "248847606237",
+    "project_id": "login-with-24d10",
+    "storage_bucket": "login-with-24d10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248847606237:android:6ce8f8c1fde177f9ed1634",
+        "android_client_info": {
+          "package_name": "com.fajaraji_loginwithgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248847606237-m2ae44km2frp69arbo142hvgfsk2gtm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fajaraji_loginwithgoogle",
+            "certificate_hash": "ddee192293c190510499a936a4f406c8a2b74a5c"
+          }
+        },
+        {
+          "client_id": "248847606237-27vvd2rm01t2nksnh10qli4jilelk8fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvnletHJjS_cIgI_kDTnS7P_fHcgrkYsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248847606237-27vvd2rm01t2nksnh10qli4jilelk8fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
